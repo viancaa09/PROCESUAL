@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Encabezadovianca{
+    height:60px;
+    background: #0a0909;
+    color: aliceblue;
+    text-align: center;
+}
+.Titulovianca{
+    height: 60px;
+    color: aliceblue;
+    background: #941022;
+ 
+    
+    text-align: center;
+}
+
+.Pievianca{
+    height:100px;
+    color: aliceblue;
+    background: rgb(30, 197, 100);
+  
+
+    text-align: center;
+}
+.menu{
+    height: 150px;
+    color: aliceblue;
+    width: 100%;
+    background: rgb(56, 62, 158);
+    
+    color: aliceblue;
+   
+    text-align: center;
+}
+.contenidovianca{
+    height: 150px;
+    color: aliceblue;
+    width: 100%;
+    background: rgb(40, 38, 65);
+    
+   
+    text-align: center;
+}
+.finalidadvianca
+{
+    height: 100px;
+    color: aliceblue;
+    width: 100%;
+    background: rgb(155, 151, 150);
+ 
+   
+    text-align: center;
+}
+.comercialvianca
+{
+    height: 100px;
+    color: aliceblue;
+    width: 100%;
+    background: rgb(194, 183, 30);
+   
+   
+    text-align: center;
+}
